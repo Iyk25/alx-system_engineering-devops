@@ -1,2 +1,3 @@
 #!/bin/bang
-chmod --reference=olleh 
+chmod --reference=olleh hello
+
