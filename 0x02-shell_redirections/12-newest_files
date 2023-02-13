@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | sort -t' ' -k 6,6r -k 7,7r -k 8,8r | head -n 10
+ls -lt | sort -t' ' -k 6,6r -k 7,7r -k 8,8r | head -n 11
