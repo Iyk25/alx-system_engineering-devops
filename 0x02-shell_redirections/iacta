@@ -1,0 +1,4 @@
+awk "NR==3" iacta
+#This is the syntax to display line 3 in a file called iacta
+This command can also be replaced by the sed command 
+Both the sed command and the awk command can print specific line numbers with a file
