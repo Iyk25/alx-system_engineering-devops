@@ -1,2 +1,2 @@
 #!/bin/bash 
-sed -n '1~2p' input_file
+cat -n | grep [13579][[:space:]] | tr -s ' ' | cut -f2
